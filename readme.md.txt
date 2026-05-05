@@ -1,4 +1,4 @@
-nsta Brand Pulse Dashboard
+Insta Brand Pulse Dashboard
 🔍 Overview
 
 This project analyzes Instagram brand performance to identify key drivers of engagement, growth, and business impact.
